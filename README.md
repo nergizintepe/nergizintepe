@@ -12,7 +12,7 @@ Benvenuti nel mio portfolio! Sono una professionista orientata ai dati con una s
 3. **[Online Retail Recommender](https://github.com/nergizintepe/Online-Retail-Analytics):** Sistema di raccomandazione basato sulle transazioni di un e-commerce internazionale, ottimizzato per il cross-selling attraverso metriche di **Support, Confidence e Lift**.
 4. **[Amazon Review Sorting](https://github.com/nergizintepe/Amazon-Rating-Analysis):** Implementazione del **Wilson Lower Bound** per ordinare le recensioni in base all'affidabilità statistica, eliminando i bias dei feedback poco rappresentativi.
 5. **[Amazon Rating Product](https://github.com/nergizintepe/Amazon-Rating-Analysis):** Calcolo del rating dei prodotti utilizzando la media ponderata in base al tempo (**Time-Based Weighted Average**) per riflettere la qualità attuale.
-6. **[Movie-Based Recommender](https://github.com/nergizintepe/Hybrid-Movie-Recommender):** Un modulo focalizzato esclusivamente sulla correlazione tra i contenuti (Item-Based) per scoprire film simili a quelli già apprezzati dall'utente.
+6. **[Movie-Based Recommender](https://github.com/nergizintepe/HybridRecommender):** Un modulo focalizzato esclusivamente sulla correlazione tra i contenuti (Item-Based) per scoprire film simili a quelli già apprezzati dall'utente.
 7. **[User-Based Similarity Analysis](https://github.com/nergizintepe/Hybrid-Movie-Recommender):** Analisi dei profili utenti per trovare "vicini" con gusti simili, migliorando la scoperta di nuovi contenuti attraverso il filtraggio collaborativo.
 
 ---
