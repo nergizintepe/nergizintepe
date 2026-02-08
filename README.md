@@ -43,7 +43,7 @@ Benvenuti nel mio portfolio! Sono una professionista orientata ai dati con una s
 ---
 
 ## 📫 Contatti
-* **LinkedIn:** [linkedin.com/in/nergizintepe](https://www.linkedin.com/in/nergizintepe)
+* **LinkedIn:** [linkedin.com/in/nergizintepe](https://www.linkedin.com/in/nergizintepe](https://www.linkedin.com/in/nergiz-intepe-7b5363157/)
 * **GitHub:** [@nergizintepe](https://github.com/nergizintepe)
 
 ---
