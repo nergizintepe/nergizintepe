@@ -1,26 +1,24 @@
 # Nergiz Intepe
 
-**Python Developer & AI Systems Architect** — RAG, LLMOps and agentic workflows, on top of ten years of financial and risk analysis.
+**Python Developer & AI Systems Architect**
 
-I build the layer underneath the answers: retrieval that can be checked, agents with boundaries, and the evaluation and cost monitoring that keep both honest. Before AI, I spent three years on the risk and treasury side of a brokerage, which is where I learned that a wrong number has a price and a same day deadline.
+I build the layer underneath the answers: retrieval that can be checked, agents with boundaries, and the evaluation and cost monitoring that keep both honest.
+
+Before AI, I spent three years on the risk and treasury side of a brokerage, watching exposure, running the numbers behind the funds we managed and reporting on them daily. That is where I learned that a wrong number has a price and a same day deadline. It still shapes how I build.
 
 Based in Trieste, Italy.
 
----
+## What I work on
 
-### What I work on
+**AI systems.** RAG pipelines from ingestion and chunking through hybrid retrieval and reranking. LangGraph agents with tools and guardrails, MCP servers, structured extraction from documents. Evaluation with golden datasets, LLM as judge scoring and regression gates in CI, so a release cannot quietly make answers worse.
 
-**AI systems** — RAG pipelines from ingestion and chunking through hybrid retrieval and reranking, LangGraph agents with tools and guardrails, MCP servers, structured extraction from documents, and evaluation with golden datasets, LLM as judge scoring and regression gates in CI.
+**Data and analysis.** SQL and Python for reporting layers and dashboards, forecasting and classification with gradient boosting, cohort analysis and A/B testing.
 
-**Data and analysis** — SQL and Python for reporting layers, dashboards, forecasting and classification with gradient boosting, cohort analysis and A/B testing.
+**Finance and risk.** Exposure and margin monitoring, VaR and stress testing, volatility and correlation analysis, cash flow modelling and unit economics.
 
-**Finance and risk** — exposure and margin monitoring, VaR and stress testing, volatility and correlation analysis, cash flow modelling and unit economics.
+**Software.** FastAPI and Django services, PostgreSQL and Oracle PL/SQL, Oracle APEX applications, and enough JavaScript and React to ship the screen as well as the query behind it.
 
-**Software** — FastAPI and Django services, PostgreSQL and Oracle PL/SQL, Oracle APEX applications, and enough JavaScript and React to ship the screen as well as the query behind it.
-
----
-
-### Stack
+## Stack
 
 ```
 AI & LLM
@@ -46,14 +44,12 @@ Frontend & Ops
 |- Prometheus, Grafana
 ```
 
----
+## Selected work
 
-### Selected work
+**[PappaChat](https://github.com/AtakanKayatekin/pappachat)**
 
-**[PappaChat](https://github.com/AtakanKayatekin/pappachat)** — an identity aware communication engine for local Italian businesses. I work on the data and AI side: retrieval on PostgreSQL and pgvector, LangGraph agents, the evaluation setup that gates releases, and the cost model underneath it all.
+An identity aware communication engine for local Italian businesses. I work on the data and AI side: retrieval on PostgreSQL and pgvector, LangGraph agents, the evaluation setup that gates releases, and the cost model underneath it all.
 
----
-
-### Elsewhere
+## Elsewhere
 
 [LinkedIn](https://www.linkedin.com/in/nergizintepe/)
